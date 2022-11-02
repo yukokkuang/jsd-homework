@@ -2,6 +2,7 @@
 
 ## Setup Instructions
 
+- Download Git Bash - https://git-scm.com/downloads - follow the default instructions
 - Fork this repository
   - Hit the fork button on the top right (this stores a copy of it on your own github)
 - Clone your forked repository on your local computer
