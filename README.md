@@ -3,7 +3,17 @@
 ## Setup Instructions
 
 - Download Git Bash - https://git-scm.com/downloads - follow the default instructions
-- Fork this repository
+
+### Navigate your computer's file system along with base level tasks such as create, copy, rename and delete:
+* Move around your directory structure: `cd`
+* Create directories: `mkdir`
+* Create files (and modify their metadata): `touch`
+* Copy files: `cp`
+* Move files: `mv`
+* Delete files or directories: `rm`
+
+
+### Fork this repository
   - Hit the fork button on the top right (this stores a copy of it on your own github)
 - Clone your forked repository on your local computer
   - git clone url_of_your_fork_on_github
