@@ -1,4 +1,4 @@
-# JD ([General Assembly](https://github.com/aimanskie/jsd-pb.git)) Homework Repository
+# JD ([General Assembly](https://github.com/aimanskie/jsd-homework.git)) Homework Repository
 
 ## Setup Instructions
 
@@ -18,7 +18,7 @@
   - git commit -m "Your commit message"
   - git pull
   - git push origin master
-- Navigate to your forked version on Github - should be https://github.com/{{YOUR_USERNAME_HERE}}/jsd-pb
+- Navigate to your forked version on Github - should be https://github.com/{{YOUR_USERNAME_HERE}}/jsd-homework
 - Hit the pull request button
 - Make sure the destination for the pull request is set to my repository
 - Tell me the following things in the comment:
